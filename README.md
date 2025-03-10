@@ -1,12 +1,12 @@
-## DLassignment1 -
-# About Content :
+# DLassignment1 -
+## About Content :
 neural_network_final.py : This file contains implementation of neural network using numpy along with several helper functions.Functions such as forward pass, back propagation, helping functions such as activation funcitons, weight initialisation etc are implemented in this python file.
 
 train.py : This function is responsible for training the neural network with given parameters. Use semantics of the file are provided below.
 
 pars_args.py : Python script to handle command-line arguments for the train.py file.
 
-# Train.py - Command Line Arguments
+## Train.py - Command Line Arguments
 
 This script allows users to train a model using various hyperparameters and configurations.
 
